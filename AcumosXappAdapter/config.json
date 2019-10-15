@@ -1,0 +1,14 @@
+{
+    "version": "0.1.1",
+    "microserviceRootURL": "http://acumos:3330/",
+    "methodRoot": "model/methods/",
+    "artifactRoot": "model/artifacts/",
+    "methods": {
+	"1": {
+	    "service": "classify",
+	    "content-type": "application/json",
+	    "return-type": "application/json",
+	    "return-rte": "2"
+	}
+    }
+}
