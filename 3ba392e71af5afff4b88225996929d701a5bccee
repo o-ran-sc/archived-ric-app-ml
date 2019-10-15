@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "216ffbb6_ca6773e5",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2019-10-15T19:35:12Z",
+      "side": 1,
+      "message": "Learning (missing \u0027r\u0027)",
+      "range": {
+        "startLine": 1,
+        "startChar": 19,
+        "endLine": 1,
+        "endChar": 26
+      },
+      "revId": "3ba392e71af5afff4b88225996929d701a5bccee",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    }
+  ]
+}
