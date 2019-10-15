@@ -1,0 +1,52 @@
+---
+project: 'ric-app/ml'
+project_creation_date: '2019-10-15'
+project_category: ''
+lifecycle_state: 'Incubation'
+project_lead: &ric_app_ml_ptl
+    name: 'Matti Hiltunen'
+    email: 'hiltunen@att.com'
+    id: 'hiltunen'
+    company: 'AT&T Labs-Research'
+    timezone: 'America/New_York'
+primary_contact: *ric_app_ml_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.o-ran-sc.org/projects/RICPLT'
+    key: 'ML'
+mailing_list:
+    type: 'groups.io'
+    url: 'https://lists.o-ran-sc.org/g/main'
+    tag: '<[ric-app/ml]>'
+realtime_discussion:
+    type: 'irc'
+    server: 'freenode.net'
+    channel: '#o-ran-sc'
+meetings:
+    - type: 'zoom'
+      agenda: ''
+      url: ''
+      server: 'n/a'
+      channel: 'n/a'
+      repeats: 'weekly'
+      time: ''
+repositories:
+    - 'ric-app/ml'
+committers:
+    - name: 'Chris Lott'
+      email: 'clott@research.att.com'
+      company: 'AT&T Labs-Research'
+      id: 'cl778h'
+      timezone: 'America/New_York'
+    - name: 'Manoop Talasila'
+      email: 'talasila@research.att.com'
+      company: 'ATT'
+      id: 'talasila'
+      timezone: 'America/New_York'
+    - name: 'Guy Jacobson'
+      email: 'gj2418@att.com'
+      company: 'ATT'
+      id: 'gj2418'
+      timezone: 'America/New_York'
+tsc:
+    approval: 'https://lists.o-ran-sc.org/g/toc'
