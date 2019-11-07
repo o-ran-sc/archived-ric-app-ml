@@ -1,5 +1,5 @@
 .. ===============LICENSE_START=======================================================
-.. O-RAN SC CC-BY-4.0
+.. O-RAN SC
 .. %%
 .. Copyright (C) 2019 AT&T Intellectual Property
 .. %%
