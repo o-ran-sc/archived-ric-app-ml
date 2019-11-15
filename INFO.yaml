@@ -46,7 +46,7 @@ committers:
     - name: 'Guy Jacobson'
       email: 'gj2418@att.com'
       company: 'ATT'
-      id: 'gj2418'
+      id: 'guyjacobson'
       timezone: 'America/New_York'
 tsc:
     approval: 'https://lists.o-ran-sc.org/g/toc'
