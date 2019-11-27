@@ -1,0 +1,11 @@
+# the release job adds prefix o-ran-sc/ to the image names
+---
+distribution_type: container
+container_release_tag: 0.0.1
+container_pull_registry: nexus3.o-ran-sc.org:10004
+container_push_registry: nexus3.o-ran-sc.org:10002
+project: ric-app/ml
+ref: 81431864389ebbd76b1301f54fed9dacc5be841e
+containers:
+    - name: ric-app-ml
+      version: 0.0.1
