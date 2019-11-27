@@ -14,5 +14,6 @@ RIC APP ML
    :caption: Contents:
 
    overview.rst
+   release-notes.rst
 
 * :ref:`search`
