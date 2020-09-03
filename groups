@@ -2,4 +2,3 @@
 #
 a4e332297a033d805dc275214c965dfdb6977c4a                                   	saml/oran-gerrit-ric-app-ml-committers
 add1d629e64dce7097223c93ca6e710c1460b5ba                                   	GitHub Replication
-ldap:cn=oran-gerrit-ric-app-ml-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-ric-app-ml-committers
